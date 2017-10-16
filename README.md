@@ -1,3 +1,4 @@
 # Vagrant\
 Today
-initiated vagrant
+
+Intel CORE i5
